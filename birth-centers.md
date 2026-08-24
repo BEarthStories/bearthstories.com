@@ -1,3 +1,13 @@
+---
+title: Birth Centers
+type: concept
+tags: [birth-centers, midwifery, low-intervention, birth]
+updated: 2026-08-24
+sources: []
+---
+
 # Birth Centers
 
-Birth centers provide a home-like environment for low-risk pregnancy, labor, and birth. They are typically staffed by midwives and emphasize family-centered, low-intervention care.
+Birth centers provide a home-like environment for low-risk pregnancy, labor,
+and birth. They are typically staffed by midwives and emphasize
+family-centered, low-intervention care.
